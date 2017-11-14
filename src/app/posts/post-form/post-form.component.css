@@ -1,0 +1,19 @@
+.add-posts {
+    text-align: center;
+}
+.add-posts h1 {
+    margin-top: 50px;
+}
+.form-line {
+    margin: 20px 0;
+}
+.form-line label {
+    display: block;
+    padding: 10px;
+}
+.form-line input, textarea {
+    padding: 5px;
+}
+.form-line textarea {
+    max-width: 95%;
+}
